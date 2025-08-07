@@ -46,10 +46,3 @@ Instalación recomendada:
 pip install tensorflow matplotlib
 ```
 
-## Ejecución
-
-```bash
-python reconocimiento_prendas.py
-```
-
-Este script imprimirá la precisión alcanzada, las probabilidades predichas para nuevas imágenes, y comparará con las etiquetas reales.
